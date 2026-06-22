@@ -5,7 +5,7 @@
    ========================================================================== */
 
 // ▼▼▼ ここをあなたの Cloudflare Worker の URL に変更 ▼▼▼
-const PROXY = "https://a094ba08.my-first-workers-alg.pages.dev"; // 例: "https://market-pulse.your-name.workers.dev"
+const PROXY = "marketpulse.chibigyala.workers.dev"; // 例: "https://market-pulse.your-name.workers.dev"
 // ▲▲▲ 空のままだとデモ表示になります ▲▲▲
 
 const REFRESH_MS = 15 * 60 * 1000; // 15分

@@ -1,6 +1,6 @@
 /* Market Pulse — Service Worker
    オフライン表示（アプリの外枠をキャッシュ）と、Android向け定期同期。 */
-const CACHE = "mp-v1";
+const CACHE = "mp-v2";
 const SHELL = ["./", "./index.html", "./app.js", "./manifest.webmanifest", "./icon.svg"];
 
 self.addEventListener("install", (e) => {
