@@ -1,0 +1,15 @@
+{
+  "name": "Market Pulse — 世界決算 & 市場ニュース",
+  "short_name": "Market Pulse",
+  "description": "世界の決算・市場ニュースと12取引所のリアルタイム状況を無料で表示",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0E1320",
+  "theme_color": "#0E1320",
+  "lang": "ja",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
